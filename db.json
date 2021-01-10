@@ -1,16 +1,11 @@
 {
-  "id": 1126664483,
-  "status": "closed"
-  "payments": [
-     {
-      "id": 4996721469,
-      "transaction_amount": 4,
-      "status": "rejected"
-    },
-     {
-      "id": 4996721476,
-      "transaction_amount": 4,
-      "status": "approved"
-     }
-   ], 
- }
+  "posts": [
+    {
+      "id": 1,
+      "status": "closed"
+    }
+  ],
+  "profile": {
+     "status": "approved"
+  }
+}
