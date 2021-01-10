@@ -1,6 +1,11 @@
 {
-    "id": 12345,
-    "live_mode": true,
-    "type": "payment",
-    "action": "payment.created"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
