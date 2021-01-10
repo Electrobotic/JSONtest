@@ -2,5 +2,5 @@
     "id": 12345,
     "live_mode": true,
     "type": "payment",
-    "action": "payment.created",
+    "action": "payment.created"
 }
