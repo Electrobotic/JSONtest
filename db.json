@@ -1,14 +1,14 @@
 {
-  "id": 1126664483,
-  "status": "closed",
-  "payments": [
-     {
-      "id": 4996721469,
-      "transaction_amount": 4,
-      "status": "rejected",
-    },
-     {
-      "id": 4996721476,
-      "transaction_amount": 4,
-      "status": "approved",
-    }, 
+    "id": 12345,
+    "live_mode": true,
+    "type": "payment",
+    "date_created": "2020",
+    "application_id": 123123123,
+    "user_id": 44444,
+    "version": 1,
+    "api_version": "v1",
+    "action": "payment.created",
+    "data": {
+        "id": "999999999"
+    }
+}
